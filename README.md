@@ -9,7 +9,7 @@ If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to
 ## Overview
 Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
 
-**Shipped version:** 1.5.0
+**Shipped version:** 1.6.1
 
 ## Screenshots
 
@@ -28,6 +28,7 @@ How to configure this app: by an admin panel, a plain file with SSH, or any othe
 #### Supported architectures
 
 * x86-64b - [![Build Status](https://ci-apps.yunohost.org/ci/logs/syncthing%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/syncthing/)
+* i386 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/syncthing%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/syncthing/) 
 * ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/syncthing%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/syncthing/)
 
 ## Links
